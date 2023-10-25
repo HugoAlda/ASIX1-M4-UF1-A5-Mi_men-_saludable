@@ -22,4 +22,26 @@ body {
 
 img {
     width: 40%;
+    align-items: center center;
+    justify-content: center;
+}
+
+.titulo-pizza {
+    text-align: center;
+}
+
+.pizza {
+    padding-left: 450px;
+}
+
+.titulo-ingredientes {
+    text-align: center;
+}
+
+.hr {
+    width: 90%;
+}
+
+.hr2 {
+    width: 70%;
 }
