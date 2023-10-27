@@ -80,3 +80,12 @@ img {
 .titulo-menu {
     text-align: center;
 }
+
+.imagenes-pizza-pasos {
+    display: flex;
+}
+
+.imagenes-pizza {
+    width: 100%;
+    justify-content: center;
+}
